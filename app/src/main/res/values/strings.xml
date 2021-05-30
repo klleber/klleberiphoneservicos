@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Klleber iPhone Serviços</string>
+    <string name="action_settings">Settings</string>
+    <!--activity_servicos-->
+    <string name="servicoEdit" >Serviço:</string>
+    <string name="modeloEdit" >Modelo:</string>
+    <string name="precoEdit" >Preço:</string>
+    <string name="ex_troca_display" >Ex: Troca de Display</string>
+    <!--main_activity-->
+    <string name="servicos">Serviços</string>
+    <string name="sobre" >Sobre</string>
+    <string name="localizacao" tools:ignore="MissingTranslation">Localização</string>
+    <!--servicos-->
+    <string name="iphone_nome" >Nome: </string>
+    <string name="iphone_modelo" >Modelo: </string>
+    <string name="iphone_preco" >Preço: </string>
+    <!--sobre_activity-->
+    <string name="contato" >Entrar em contato </string>
+    <string name="acessa_site" >Acessar Site</string>
+    <!--add menu-->
+    <string name="confirmar" >Confirmar</string>
+    <string name="cancelar" >Cancelar</string>
+
+</resources>
